@@ -1,0 +1,18 @@
+{
+    "chain_name": "ICS-Provider",
+    "api": ["https://cosmos-testnet-api.polkachu.com/"],
+    "rpc": ["https://cosmos-testnet-rpc.polkachu.com/"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.45.7",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "cosmos",
+    "logo": "/logos/GOC.png",
+    "assets": [{
+        "base": "uprov",
+        "symbol": "PROV",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/GOC.png"
+    }]
+}
