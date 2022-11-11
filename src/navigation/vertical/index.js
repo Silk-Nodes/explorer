@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://ping.pub/logo.svg',
+      icon: 'https://raw.githubusercontent.com/Silk-Nodes/brand-assests/1d32225c495148a18e43defcf7150f4317882673/icon/Silk_Nodes.svg',
     })
   }
   chainMenus.push({ header: 'LINKS' })
@@ -38,7 +38,7 @@ function processMenu() {
   }
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
+    href: 'https://twitter.com/silk_nodes',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
