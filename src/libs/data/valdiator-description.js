@@ -1,8 +1,8 @@
 export default class ValidatorDescription {
   constructor() {
-    this.moniker = 'Ping'
+    this.moniker = 'Silk Nodes'
     this.identity = 'string'
-    this.website = 'https://ping.pub'
+    this.website = 'https://explorer.silknodes.io'
     this.security_contact = 'string'
     this.details = 'string'
   }
