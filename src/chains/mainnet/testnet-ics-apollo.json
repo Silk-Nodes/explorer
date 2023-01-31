@@ -1,7 +1,10 @@
 {
-    "chain_name": "ICS-Provider",
-    "api": ["http://10.42.44.190:1317","https://cosmos-testnet-api.polkachu.com/"],
-    "rpc": ["http://10.42.44.190:26657","https://cosmos-testnet-rpc.polkachu.com/"],
+    "chain_name": "ICS-Apollo",
+    "provider_chain": {
+        "api": "https://rest.provider-sentry-01.goc.earthball.xyz"
+    },
+    "api": ["https://apollo.api.ping.pub/"],
+    "rpc": ["http://10.42.44.190:36657"],
     "snapshot_provider": "",
     "sdk_version": "v0.45.7",
     "coin_type": "118",
@@ -9,8 +12,8 @@
     "addr_prefix": "cosmos",
     "logo": "/logos/GOC.png",
     "assets": [{
-        "base": "uprov",
-        "symbol": "PROV",
+        "base": "upol",
+        "symbol": "POL",
         "exponent": "6",
         "coingecko_id": "", 
         "logo": "/logos/GOC.png"
