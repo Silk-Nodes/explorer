@@ -1,18 +1,20 @@
 {
-    "chain_name": "jackal",
-    "coingecko": "",
-    "api": ["https://api.jackal.silknodes.io/"],
-    "rpc": ["https://rpc.jackal.silknodes.io/"],
-    "snapshot_provider": "",
-    "coin_type": "118",
-    "sdk_version": "0.45.9",
-    "addr_prefix": "jkl",
-    "logo": "/logos/jackal.png",
-    "assets": [{
-        "base": "ujkl",
-        "symbol": "JKL",
-        "exponent": "6",
-        "coingecko_id": "jackal",
-        "logo": "/logos/jackal.png"
-    }]
+  "chain_name": "jackal",
+  "coingecko": "jackal-protocol",
+  "api": ["https://api.jackal.silknodes.io/"],
+  "rpc": ["https://rpc.jackal.silknodes.io/"],
+  "snapshot_provider": "",
+  "coin_type": "118",
+  "sdk_version": "0.45.9",
+  "addr_prefix": "jkl",
+  "logo": "/logos/jackal.png",
+  "assets": [
+    {
+      "base": "ujkl",
+      "symbol": "JKL",
+      "exponent": "6",
+      "coingecko_id": "jackal-protocol",
+      "logo": "/logos/jackal.png"
+    }
+  ]
 }
