@@ -4,7 +4,7 @@
   "api": ["https://api.mars.silknodes.io"],
   "rpc": ["https://rpc.mars.silknodes.io"],
   "snapshot_provider": "",
-  "coin_type": "118",
+  "coin_type": 118,
   "sdk_version": "0.46.8",
   "addr_prefix": "mars",
   "logo": "/logos/mars.png",
@@ -12,7 +12,7 @@
     {
       "base": "umars",
       "symbol": "MARS",
-      "exponent": "6",
+      "exponent": 6,
       "coingecko_id": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
       "logo": "/logos/mars.png"
     }

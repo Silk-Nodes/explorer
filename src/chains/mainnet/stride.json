@@ -12,7 +12,7 @@
   ],
   "snapshot_provider": "",
   "sdk_version": "0.46.7",
-  "coin_type": "118",
+  "coin_type": 118,
   "min_tx_fee": "800",
   "addr_prefix": "stride",
   "logo": "/logos/stride.png",
@@ -20,7 +20,7 @@
     {
       "base": "ustrd",
       "symbol": "STRD",
-      "exponent": "6",
+      "exponent": 6,
       "coingecko_id": "stride",
       "logo": "/logos/stride.png"
     }

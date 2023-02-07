@@ -13,7 +13,7 @@
   ],
   "snapshot_provider": "21cca2db122c48a11f426799131ef08235d46671@cerberus-rpc.polkachu.com:10656",
   "sdk_version": "0.45.11",
-  "coin_type": "118",
+  "coin_type": 118,
   "min_tx_fee": "5000",
   "addr_prefix": "cerberus",
   "logo": "/logos/cerberus.png",
@@ -21,7 +21,7 @@
     {
       "base": "ucrbrus",
       "symbol": "CRBRUS",
-      "exponent": "6",
+      "exponent": 6,
       "coingecko_id": "cerberus-2",
       "logo": "/logos/cerberus.png"
     }

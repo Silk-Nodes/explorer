@@ -4,7 +4,7 @@
   "api": ["http://10.42.44.167:1317"],
   "rpc": ["http://10.42.44.167:26657"],
   "snapshot_provider": "",
-  "coin_type": "118",
+  "coin_type": 118,
   "sdk_version": "0.45.9",
   "addr_prefix": "nomic",
   "logo": "/logos/nomic.png"

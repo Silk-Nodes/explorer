@@ -3,7 +3,7 @@
   "api": ["https://api.cosmos.silknodes.io"],
   "rpc": ["https://rpc.cosmos.silknodes.io"],
   "sdk_version": "0.45.9",
-  "coin_type": "118",
+  "coin_type": 118,
   "min_tx_fee": "800",
   "addr_prefix": "cosmos",
   "logo": "/logos/cosmos.svg",
@@ -11,7 +11,7 @@
     {
       "base": "uatom",
       "symbol": "ATOM",
-      "exponent": "6",
+      "exponent": 6,
       "coingecko_id": "cosmos",
       "logo": "/logos/cosmos.svg"
     }

@@ -4,7 +4,7 @@
   "rpc": ["https://rpc.evmos.silknodes.io"],
   "snapshot_provider": "",
   "sdk_version": "0.46.8",
-  "coin_type": "60",
+  "coin_type": 60,
   "min_tx_fee": "5000000000000000",
   "addr_prefix": "evmos",
   "logo": "/logos/evmos.png",
@@ -18,7 +18,7 @@
     {
       "base": "aevmos",
       "symbol": "evmos",
-      "exponent": "18",
+      "exponent": 18,
       "coingecko_id": "evmos",
       "logo": "/logos/evmos.jpeg"
     }
