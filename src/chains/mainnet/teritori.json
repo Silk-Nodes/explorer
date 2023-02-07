@@ -1,9 +1,15 @@
 {
   "chain_name": "teritori",
-  "api": ["https://api.teritori.silknodes.io/","https://rest.mainnet.teritori.com"],
-  "rpc": ["https://rpc.teritori.silknodes.io/","https://rpc.mainnet.teritori.com"],
+  "api": [
+    "https://api.teritori.silknodes.io/",
+    "https://rest.mainnet.teritori.com"
+  ],
+  "rpc": [
+    "https://rpc.teritori.silknodes.io/",
+    "https://rpc.mainnet.teritori.com"
+  ],
   "snapshot_provider": "",
-  "sdk_version": "0.45.4",
+  "sdk_version": "0.45.9",
   "coin_type": "118",
   "min_tx_fee": "5000",
   "addr_prefix": "tori",
