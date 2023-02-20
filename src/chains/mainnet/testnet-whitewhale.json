@@ -1,8 +1,8 @@
 {
   "chain_name": "Testnet-Whitewhale",
   "coingecko": "",
-  "api": ["https://api.migaloo.silknodes.io"],
-  "rpc": ["https://rpc.migaloo.silknodes.io"],
+  "api": ["https://api.narwhal.silknodes.io"],
+  "rpc": ["https://rpc.narwhal.silknodes.io"],
   "snapshot_provider": "",
   "coin_type": 118,
   "sdk_version": "0.45.9",
