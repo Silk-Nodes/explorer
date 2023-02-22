@@ -1,8 +1,8 @@
 {
   "chain_name": "Testnet-Coreum",
   "coingecko": "",
-  "api": ["https://api.coreum.ppnv.space/"],
-  "rpc": ["http://rpc.coreum.ppnv.space:43657/"],
+  "api": ["https://api.coreum.ppnv.space"],
+  "rpc": ["http://rpc.coreum.ppnv.space:43657"],
   "snapshot_provider": "",
   "coin_type": 118,
   "sdk_version": "0.45.11",
