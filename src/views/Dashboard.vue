@@ -371,7 +371,7 @@
                 @click="selectWithdraw()"
               >
                 <feather-icon icon="AwardIcon" />
-                Widthdraw Rewards
+                Withdraw Rewards
               </b-button>
             </b-card-footer>
           </b-card>
