@@ -1,0 +1,20 @@
+{
+  "chain_name": "coreum",
+  "coingecko": "coreum",
+  "api": ["https://api.coreum.silknodes.io"],
+  "rpc": ["https://rpc.coreum.silknodes.io"],
+  "snapshot_provider": "",
+  "coin_type": 118,
+  "sdk_version": "0.45.11",
+  "addr_prefix": "core",
+  "logo": "/logos/coreum.png",
+  "assets": [
+    {
+      "base": "ucore",
+      "symbol": "CORE",
+      "exponent": 6,
+      "coingecko_id": "coreum",
+      "logo": "/logos/coreum.png"
+    }
+  ]
+}
