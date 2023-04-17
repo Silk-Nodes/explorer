@@ -4,8 +4,8 @@
   "api": ["https://api.coreum.silknodes.io"],
   "rpc": ["https://rpc.coreum.silknodes.io"],
   "snapshot_provider": "",
-  "coin_type": 118,
-  "sdk_version": "0.45.11",
+  "coin_type": 990,
+  "sdk_version": "0.45.14",
   "addr_prefix": "core",
   "logo": "/logos/coreum.png",
   "assets": [

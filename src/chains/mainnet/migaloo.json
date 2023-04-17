@@ -2,12 +2,14 @@
   "chain_name": "migaloo",
   "coingecko": "",
   "api": [
-    "https://api-whitewhale-ia.cosmosia.notional.ventures/",
+    "https://archive.migaloo.api.silknodes.io",
+    "https://api-whitewhale-ia.cosmosia.notional.ventures",
     "https://migaloo-api.polkachu.com/",
     "https://api.migaloo.silknodes.io"
   ],
   "rpc": [
-    "https://rpc-whitewhale-ia.cosmosia.notional.ventures/",
+    "https://archive.migaloo.rpc.silknodes.io",
+    "https://rpc-whitewhale-ia.cosmosia.notional.ventures",
     "https://migaloo-rpc.polkachu.com/",
     "https://rpc.migaloo.silknodes.io"
   ],
@@ -21,8 +23,13 @@
       "base": "uwhale",
       "symbol": "WHALE",
       "exponent": 6,
-      "coingecko_id": "",
-      "logo": "/logos/migalooRound.png"
+      "coingecko_id": "white-whale",
+      "logo": "/logos/migalooRound.png",
+      "gasPriceStep": {
+        "average": 0.3,
+        "high": 0.35,
+        "low": 0.25
+      }
     }
   ]
 }
