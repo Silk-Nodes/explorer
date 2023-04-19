@@ -4,18 +4,16 @@
   "api": [
     "https://archive.migaloo.api.silknodes.io",
     "https://api-whitewhale-ia.cosmosia.notional.ventures",
-    "https://migaloo-api.polkachu.com/",
-    "https://api.migaloo.silknodes.io"
+    "https://migaloo-api.polkachu.com/"
   ],
   "rpc": [
     "https://archive.migaloo.rpc.silknodes.io",
     "https://rpc-whitewhale-ia.cosmosia.notional.ventures",
-    "https://migaloo-rpc.polkachu.com/",
-    "https://rpc.migaloo.silknodes.io"
+    "https://migaloo-rpc.polkachu.com/"
   ],
   "snapshot_provider": "",
   "coin_type": 118,
-  "sdk_version": "0.46.9",
+  "sdk_version": "0.46.12",
   "addr_prefix": "migaloo",
   "logo": "/logos/migalooRound.png",
   "assets": [

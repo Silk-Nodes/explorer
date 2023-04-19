@@ -1,7 +1,7 @@
 {
   "chain_name": "cosmos",
-  "api": ["https://api.cosmos.silknodes.io"],
-  "rpc": ["https://rpc.cosmos.silknodes.io"],
+  "api": ["https://cosmos.api.silknodes.io"],
+  "rpc": ["https://cosmos.rpc.silknodes.io"],
   "sdk_version": "0.45.9",
   "coin_type": 118,
   "min_tx_fee": "800",

@@ -1,8 +1,8 @@
 {
   "chain_name": "Testnet-Whitewhale",
-  "coingecko": "",
-  "api": ["https://api.narwhal.silknodes.io"],
-  "rpc": ["https://rpc.narwhal.silknodes.io"],
+  "coingecko": "white-whale",
+  "api": ["https://narwhal.api.silknodes.io"],
+  "rpc": ["https://narwhal.rpc.silknodes.io"],
   "snapshot_provider": "",
   "coin_type": 118,
   "sdk_version": "0.45.9",
@@ -13,7 +13,7 @@
       "base": "uwhale",
       "symbol": "WHALE",
       "exponent": 6,
-      "coingecko_id": "",
+      "coingecko_id": "white-whale",
       "logo": "/logos/whitewhale.jpg"
     }
   ]

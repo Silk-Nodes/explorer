@@ -1,7 +1,7 @@
 {
   "chain_name": "evmos",
-  "api": ["https://api.evmos.silknodes.io"],
-  "rpc": ["https://rpc.evmos.silknodes.io"],
+  "api": ["https://evmos.api.silknodes.io"],
+  "rpc": ["https://evmos.rpc.silknodes.io"],
   "snapshot_provider": "",
   "sdk_version": "0.46.8",
   "coin_type": 60,

@@ -1,11 +1,11 @@
 {
   "chain_name": "teritori",
   "api": [
-    "https://api.teritori.silknodes.io/",
+    "https://teritori.api.silknodes.io/",
     "https://rest.mainnet.teritori.com"
   ],
   "rpc": [
-    "https://rpc.teritori.silknodes.io/",
+    "https://teritori.rpc.silknodes.io/",
     "https://rpc.mainnet.teritori.com"
   ],
   "snapshot_provider": "",

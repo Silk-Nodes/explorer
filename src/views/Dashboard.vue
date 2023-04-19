@@ -737,7 +737,11 @@ export default {
       this.proposals.forEach(x => {
         this.$http.getGovernanceProposalVote(x.id, address, null)
           .then(v => {
-            this.myVotes[x.id] = this.formatVoteOption(v.vote.option)
+            if (this.config.chain_name === 'migaloo') {
+              this.myVotes[x.id] = this.formatVoteOption(v.vote.options[0].option)
+            } else {
+              this.myVotes[x.id] = this.formatVoteOption(v.vote.option)
+            }
           })
           .catch(() => {
             this.myVotes[x.id] = null

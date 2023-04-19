@@ -1,10 +1,10 @@
 {
   "chain_name": "juno",
   "coingecko": "juno-network",
-  "api": ["https://api.juno.silknodes.io"],
-  "rpc": ["https://rpc.juno.silknodes.io"],
+  "api": ["https://juno.api.silknodes.io"],
+  "rpc": ["https://juno.rpc.silknodes.io"],
   "snapshot_provider": "",
-  "sdk_version": "0.45.11",
+  "sdk_version": "0.45.15",
   "coin_type": 118,
   "min_tx_fee": "3000",
   "addr_prefix": "juno",

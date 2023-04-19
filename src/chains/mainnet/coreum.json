@@ -1,8 +1,8 @@
 {
   "chain_name": "coreum",
   "coingecko": "coreum",
-  "api": ["https://api.coreum.silknodes.io"],
-  "rpc": ["https://rpc.coreum.silknodes.io"],
+  "api": ["https://coreum.api.silknodes.io"],
+  "rpc": ["https://coreum.rpc.silknodes.io"],
   "snapshot_provider": "",
   "coin_type": 990,
   "sdk_version": "0.45.14",

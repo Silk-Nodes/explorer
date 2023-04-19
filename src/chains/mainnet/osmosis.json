@@ -1,8 +1,8 @@
 {
   "chain_name": "osmosis",
   "coingecko": "osmosis",
-  "api": ["https://api.osmosis.silknodes.io"],
-  "rpc": ["https://rpc.osmosis.silknodes.io"],
+  "api": ["https://osmosis.api.silknodes.io"],
+  "rpc": ["https://osmosis.rpc.silknodes.io"],
   "snapshot_provider": "",
   "sdk_version": "0.46.7",
   "coin_type": 118,
