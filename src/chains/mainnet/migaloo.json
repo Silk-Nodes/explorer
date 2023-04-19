@@ -1,6 +1,6 @@
 {
   "chain_name": "migaloo",
-  "coingecko": "",
+  "coingecko": "white-whale",
   "api": [
     "https://archive.migaloo.api.silknodes.io",
     "https://api-whitewhale-ia.cosmosia.notional.ventures",
