@@ -13,7 +13,12 @@
       "symbol": "ATOM",
       "exponent": 6,
       "coingecko_id": "cosmos",
-      "logo": "/logos/cosmos.svg"
+      "logo": "/logos/cosmos.svg",
+      "gasPriceStep": {
+        "average": 0.025,
+        "high": 0.03,
+        "low": 0.01
+      }
     }
   ]
 }

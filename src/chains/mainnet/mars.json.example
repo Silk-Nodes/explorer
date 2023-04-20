@@ -14,7 +14,12 @@
       "symbol": "MARS",
       "exponent": 6,
       "coingecko_id": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
-      "logo": "/logos/mars.png"
+      "logo": "/logos/mars.png",
+      "gasPriceStep": {
+        "average": 0.025,
+        "high": 0.03,
+        "low": 0.01
+      }
     }
   ]
 }

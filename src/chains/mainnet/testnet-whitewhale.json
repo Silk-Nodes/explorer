@@ -14,7 +14,12 @@
       "symbol": "WHALE",
       "exponent": 6,
       "coingecko_id": "white-whale",
-      "logo": "/logos/whitewhale.jpg"
+      "logo": "/logos/whitewhale.jpg",
+      "gasPriceStep": {
+        "average": 0.3,
+        "high": 0.35,
+        "low": 0.25
+      }
     }
   ]
 }

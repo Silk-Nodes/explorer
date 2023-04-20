@@ -22,7 +22,12 @@
       "symbol": "HUAHUA",
       "exponent": 6,
       "coingecko_id": "chihuahua-token",
-      "logo": "/logos/chihuahua.png"
+      "logo": "/logos/chihuahua.png",
+      "gasPriceStep": {
+        "average": 5,
+        "high": 10,
+        "low": 1
+      }
     }
   ]
 }

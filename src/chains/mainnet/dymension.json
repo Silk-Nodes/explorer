@@ -14,7 +14,12 @@
       "symbol": "DYM",
       "exponent": 6,
       "coingecko_id": "",
-      "logo": "/logos/dymensionRound.png"
+      "logo": "/logos/dymensionRound.png",
+      "gasPriceStep": {
+        "average": 0.025,
+        "high": 0.03,
+        "low": 0.01
+      }
     }
   ]
 }

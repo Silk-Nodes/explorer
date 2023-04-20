@@ -20,7 +20,12 @@
       "symbol": "TORI",
       "exponent": 6,
       "coingecko_id": "teritori",
-      "logo": "/logos/teritori.svg"
+      "logo": "/logos/teritori.svg",
+      "gasPriceStep": {
+        "average": 0.025,
+        "high": 0.03,
+        "low": 0.01
+      }
     }
   ]
 }

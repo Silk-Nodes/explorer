@@ -14,7 +14,12 @@
       "symbol": "JKL",
       "exponent": 6,
       "coingecko_id": "jackal-protocol",
-      "logo": "/logos/jackal.png"
+      "logo": "/logos/jackal.png",
+      "gasPriceStep": {
+        "average": 0.025,
+        "high": 0.03,
+        "low": 0.01
+      }
     }
   ]
 }

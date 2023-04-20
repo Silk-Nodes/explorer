@@ -15,21 +15,36 @@
       "symbol": "OSMO",
       "exponent": 6,
       "coingecko_id": "osmosis",
-      "logo": "/logos/osmosis.jpg"
+      "logo": "/logos/osmosis.jpg",
+      "gasPriceStep": {
+        "average": 0.025,
+        "high": 0.03,
+        "low": 0.01
+      }
     },
     {
       "base": "uion",
       "symbol": "ION",
       "exponent": 6,
       "coingecko_id": "ion",
-      "logo": "/logos/osmosis.jpg"
+      "logo": "/logos/osmosis.jpg",
+      "gasPriceStep": {
+        "average": 0.025,
+        "high": 0.03,
+        "low": 0.01
+      }
     },
     {
       "base": "usomm",
       "symbol": "SOMM",
       "exponent": 6,
       "coingecko_id": "somm",
-      "logo": ""
+      "logo": "",
+      "gasPriceStep": {
+        "average": 0.025,
+        "high": 0.03,
+        "low": 0.01
+      }
     }
   ]
 }

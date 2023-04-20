@@ -20,7 +20,12 @@
       "symbol": "evmos",
       "exponent": 18,
       "coingecko_id": "evmos",
-      "logo": "/logos/evmos.jpeg"
+      "logo": "/logos/evmos.jpeg",
+      "gasPriceStep": {
+        "average": 0.025,
+        "high": 0.03,
+        "low": 0.01
+      }
     }
   ]
 }

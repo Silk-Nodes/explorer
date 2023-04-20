@@ -22,7 +22,12 @@
       "symbol": "STRD",
       "exponent": 6,
       "coingecko_id": "stride",
-      "logo": "/logos/stride.png"
+      "logo": "/logos/stride.png",
+      "gasPriceStep": {
+        "average": 0.025,
+        "high": 0.03,
+        "low": 0.01
+      }
     }
   ]
 }
