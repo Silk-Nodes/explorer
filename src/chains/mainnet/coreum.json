@@ -1,5 +1,5 @@
 {
-  "chain_name": "coreum",
+  "chain_name": "Coreum",
   "coingecko": "coreum",
   "api": [
     "https://coreum.api.silknodes.io",
@@ -19,9 +19,9 @@
       "coingecko_id": "coreum",
       "logo": "/logos/coreum.png",
       "gasPriceStep": {
-        "average": 0.025,
-        "high": 0.03,
-        "low": 0.01
+        "average": 0.25,
+        "high": 0.3,
+        "low": 0.1
       }
     }
   ]
