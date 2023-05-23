@@ -8,7 +8,7 @@
       <b-table
         :items="pingVals"
         :fields="validator_fields"
-        :sort-desc="true"
+        :sort-desc="false"
         sort-by="tokens"
         striped
         hover
@@ -115,7 +115,7 @@
           class="mb-0"
           :items="list"
           :fields="validator_fields"
-          :sort-desc="true"
+          :sort-desc="false"
           sort-by="tokens"
           striped
           hover
@@ -473,10 +473,10 @@ export default {
         window.sum += item.tokens
       }
       const rank = window.sum / this.stakingPool
-      if (rank < 0.333) {
+      if (rank > 0.67) {
         return 'danger'
       }
-      if (rank < 0.67) {
+      if (rank > 0.33) {
         return 'warning'
       }
       return 'primary'
