@@ -2,18 +2,17 @@
   "chain_name": "migaloo",
   "coingecko": "white-whale",
   "api": [
-    "https://archive.migaloo.api.silknodes.io",
     "https://api-whitewhale-ia.cosmosia.notional.ventures",
     "https://migaloo-api.polkachu.com/"
   ],
   "rpc": [
-    "https://archive.migaloo.rpc.silknodes.io",
     "https://rpc-whitewhale-ia.cosmosia.notional.ventures",
     "https://migaloo-rpc.polkachu.com/"
   ],
   "snapshot_provider": "",
   "coin_type": 118,
   "sdk_version": "0.46.12",
+  "min_tx_fee": "850000",
   "addr_prefix": "migaloo",
   "logo": "/logos/migalooRound.png",
   "assets": [
@@ -24,9 +23,9 @@
       "coingecko_id": "white-whale",
       "logo": "/logos/migalooRound.png",
       "gasPriceStep": {
-        "average": 0.3,
-        "high": 0.35,
-        "low": 0.25
+        "average": 0.5,
+        "high": 0.65,
+        "low": 0.45
       }
     }
   ]
